@@ -1,0 +1,7 @@
+fruit=apple
+vegetable=carrot
+sound=deep
+colour=blue
+vegetable=potato
+:del fruit
+spice=cinnamon
